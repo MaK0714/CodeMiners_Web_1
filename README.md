@@ -1,4 +1,3 @@
-# MayureshScrap - MERN Stack + Supabase
 
 Full-stack MERN application structure configured to use **Supabase** for user authentication and user data storage.
 
